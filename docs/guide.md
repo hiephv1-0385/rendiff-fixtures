@@ -1,4 +1,4 @@
-# User guide
+# Rendiff user guide
 
 Rendiff renders Markdown files in the **Files changed** tab.
 
@@ -14,15 +14,14 @@ Rendiff renders Markdown files in the **Files changed** tab.
 |--------|---------|-------------|
 | Enabled | Off | Global switch in the popup |
 | Badge | On | Shows "OFF" on the icon when disabled |
+| Highlight | On | Syntax highlighting in code blocks |
 
 ## Notes
 
 - Works on github.com only
 - Private repositories use your existing session
+- Large files show a "click to render" button
 
 > [!NOTE]
 > This guide is sample content for fixtures.
 
-## Changelog
-
-See [changelog](./changelog.md).
